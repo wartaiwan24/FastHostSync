@@ -3,7 +3,7 @@
 
 ## 1. 实现
 对Hosts进行一个新的更  
-解决Steam、github访问问题
+解决Steam、github、brave浏览器、Tor浏览器、apkpure访问问题
 
 ## 2. 使用方法
 ## 自动方法(使用工具)
