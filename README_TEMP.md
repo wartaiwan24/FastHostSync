@@ -2,7 +2,7 @@
 第一次用go写的项目，写的比较烂，欢迎大佬指出错误。
 
 ## 1. 实现
-对Hosts进行一个新的更  
+对Hosts进行一个更新
 解决Steam、github、brave浏览器、Tor浏览器、apkpure访问问题
 
 ## 2. 使用方法
