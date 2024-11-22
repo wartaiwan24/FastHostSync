@@ -1,8 +1,8 @@
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
-162.159.61.4			mozilla.cloudflare-dns.com
+172.64.41.4			mozilla.cloudflare-dns.com
 104.21.88.221			0ms.dev
-45.90.28.0			anycast.dns.nextdns.io
+45.90.30.0			anycast.dns.nextdns.io
 104.16.133.229			dns.cloudflare.com
 146.112.41.2			doh.opendns.com
 ####			kaitain.restena.lu
@@ -10,5 +10,5 @@
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-11-22 11:04:27 
+# Last Update Time : 2024-11-22 21:16:40 
 
