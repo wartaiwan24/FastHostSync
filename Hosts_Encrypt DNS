@@ -3,12 +3,12 @@
 162.159.61.4			mozilla.cloudflare-dns.com
 172.67.153.195			0ms.dev
 45.90.28.0			anycast.dns.nextdns.io
-104.16.132.229			dns.cloudflare.com
+104.16.133.229			dns.cloudflare.com
 146.112.41.2			doh.opendns.com
-####			kaitain.restena.lu
+145.100.190.186			kaitain.restena.lu
 137.66.7.89			max.rethinkdns.com
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-11-24 11:09:39 
+# Last Update Time : 2024-11-24 21:02:46 
 
